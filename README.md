@@ -1,4 +1,4 @@
-<h1 align="center">Sistema de Reserva de Restaurante</h1>
+<h1 align="center">🍽️ Sistema de Reserva de Restaurante</h1>
 
 <p align="center">
   Plataforma web para gestão de reservas de mesas, com área do cliente e painel administrativo.
