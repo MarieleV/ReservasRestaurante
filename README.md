@@ -226,3 +226,7 @@ back-end/
     <img src="https://img.shields.io/badge/E--mail-64748B?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:64748B&height=100&section=footer" width="100%"/>
+</div>
